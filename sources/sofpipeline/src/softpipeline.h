@@ -1,0 +1,6 @@
+#ifndef SOFTPIPELINE_H
+#define SOFTPIPELINE_H
+
+
+
+#endif //SOFTPIPELINE_H
