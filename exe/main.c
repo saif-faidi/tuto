@@ -1,15 +1,16 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include "softpipeline.h"
-void function_to_call()
-{}
 
-int y =0 ;
-//int big[1024*1024*100];
-int big ;
+
 int main ()
 {
-    static int  g; 
-    printf("heye");
+    int vec1[N] = {1,2,3,4,5,6,7,8,9,-1};
+    int vec2[N] = {1,2,3,4,5,6,7,8,9,10};
+    //sum(vec1,vec2);
+    sumWithPipe(vec1,vec2);
+    printvec(vec1);
+    
+    printf("heye\n");
     return  0 ; 
 }
