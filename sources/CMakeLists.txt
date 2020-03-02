@@ -1,1 +1,2 @@
 add_subdirectory(sofpipeline)
+add_subdirectory(tree)
