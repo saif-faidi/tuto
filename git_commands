@@ -1,0 +1,8 @@
+to merge into master :  you need to be on master 
+  git checkout master 
+  git merge feature 
+  --> resolve conflicts if there is any
+  git add (the changes)
+  git commit 
+  git branc -d feature (delete branch if it's not needed anymore)
+  git push  -d origin feature (delete remotely if locally deleted)
