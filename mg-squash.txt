@@ -19,3 +19,8 @@
 # Commit Squash activity #8 
 
 # Commit Squash activity #9 
+
+
+#------------Seperation----------------- 
+
+# Reset C1
