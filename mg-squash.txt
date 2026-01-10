@@ -13,3 +13,5 @@
 # Commit Squash activity #6 
 
 #------------Seperation----------------- 
+
+# Commit Squash activity #7 
