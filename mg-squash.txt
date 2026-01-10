@@ -1,1 +1,3 @@
 # Commit Squash activity #1 
+
+# Commit Squash activity #2 
